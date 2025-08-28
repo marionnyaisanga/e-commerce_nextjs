@@ -8,6 +8,7 @@ import { Footer } from "./shared-components/Footer";
 import { Header } from "./shared-components/Header";
 import { ProductCard } from "./shared-components/ProductCard";
 
+
 export default function Home() {
   return (
     <div className="min-h-screen flex flex-col">
